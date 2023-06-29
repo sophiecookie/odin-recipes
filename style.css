@@ -1,0 +1,55 @@
+* {
+    margin: 10;
+    padding: 10;
+    box-sizing: border-box;
+    font-family: georgia,"Times New Roman", sans-serif;
+}
+
+.main {
+    text-align: center;
+}
+
+a {
+    color:blue;
+}
+
+a:hover {
+    border: 1px solid black;
+    border-radius: 20px;
+    color:white;
+    background-color:aqua;
+    text-decoration: none;
+}
+
+#odin {
+    font-family: sans-serif;
+}
+
+.ingredients{
+    color:blue;
+}
+
+.steps{
+    color:red;
+}
+
+ul li{
+    margin-left: 15px;
+    color:gray;
+}
+
+ol li{
+    margin-left: 15px;
+}
+
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+.main img {
+    width: 500px;
+    height: auto;
+}
+
